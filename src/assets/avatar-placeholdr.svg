@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Placeholder portrait. Replace this file (or the import in Hero.jsx) with your own photo/illustration. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <path d="M70 190C50 110 120 40 220 50s130 90 110 170-60 150-140 140S90 270 70 190Z" fill="url(#g)"/>
+  <text x="200" y="225" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="110" font-weight="800" fill="#0b0b12" opacity="0.85">DN</text>
+</svg>
